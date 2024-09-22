@@ -45,20 +45,6 @@ A simple and interactive movie seat booking application built with HTML, CSS, an
 3. View the number of selected seats and the total price displayed below.
 4. Refresh the page to see your previous selections (if any).
 
-## Screenshots
-
-![Movie Seat Booking](screenshot.png)
-
-*(Include a screenshot of the application here.)*
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by various online movie booking systems.
