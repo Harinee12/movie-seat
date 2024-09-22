@@ -1,6 +1,6 @@
-Sure! Here’s a ready-to-copy README.md for your GitHub repository:
 
-```markdown
+
+markdown
 # Movie Seat Booking App
 
 A simple and interactive movie seat booking application built with HTML, CSS, and JavaScript. Users can select available seats, view the total cost based on the selected movie, and save their selections using local storage.
@@ -34,9 +34,9 @@ A simple and interactive movie seat booking application built with HTML, CSS, an
    ```
 
 2. Navigate to the project directory:
-   ```bash
+   `bash
    cd movie-seat-booking
-   ```
+   
 
 3. Open `index.html` in your web browser.
 
@@ -65,11 +65,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by various online movie booking systems.
 - Thanks to the open-source community for resources and support.
-
-```
-
-### Instructions
-1. Replace `yourusername` in the clone URL with your actual GitHub username.
-2. Add a screenshot of the application where indicated, and make sure to name it `screenshot.png` or adjust the filename in the markdown accordingly.
-
-Feel free to copy and paste this directly into your README.md file! If you need any more help, just let me know!
