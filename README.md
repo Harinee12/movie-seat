@@ -1,6 +1,4 @@
 
-
-markdown
 # Movie Seat Booking App
 
 A simple and interactive movie seat booking application built with HTML, CSS, and JavaScript. Users can select available seats, view the total cost based on the selected movie, and save their selections using local storage.
