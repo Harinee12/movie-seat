@@ -1,6 +1,6 @@
 
-# Movie Seat selecting page
-
+# Movie Seat 
+# selecting page
 A simple and interactive movie seat booking application built with HTML, CSS, and JavaScript. Users can select available seats, view the total cost based on the selected movie, and save their selections using local storage.
 
 ## Features
@@ -24,19 +24,6 @@ A simple and interactive movie seat booking application built with HTML, CSS, an
 - A web browser (Chrome, Firefox, etc.)
 - Text editor (e.g., Visual Studio Code, Sublime Text)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-seat-booking.git
-   ```
-
-2. Navigate to the project directory:
-   `bash
-   cd movie-seat-booking
-   
-
-3. Open `index.html` in your web browser.
 
 ## Usage
 
